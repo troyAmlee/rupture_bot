@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66e41a66-afd2-44f7-bdd5-ec84592b2d09" name="Default Changelist" comment="" />
+    <list default="true" id="66e41a66-afd2-44f7-bdd5-ec84592b2d09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +22,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -81,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583840783450</updated>
-      <workItem from="1583840843080" duration="5822000" />
+      <workItem from="1583840843080" duration="10676000" />
     </task>
     <servers />
   </component>
@@ -97,18 +101,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="240" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1583843156015" />
-    <state x="740" y="290" key="FileChooserDialogImpl" timestamp="1583845982878">
+    <state x="740" y="290" key="FileChooserDialogImpl" timestamp="1583850912067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="290" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1583845982878" />
+    <state x="740" y="290" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1583850912067" />
     <state x="782" y="436" key="Github.CreateGistDialog" timestamp="1583844084654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="436" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1583844084654" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1583846000765">
+    <state x="813" y="139" key="SettingsEditor" timestamp="1583852109637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1583846000765" />
+    <state x="813" y="139" key="SettingsEditor/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1583852109637" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583841119633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
